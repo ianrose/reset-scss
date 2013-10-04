@@ -8,7 +8,9 @@
   "description": "A Scss version of Eric Meyer's CSS reset",
   "main": "reset.scss",
   "keywords": [
-    "reset"
+    "reset",
+    "scss",
+    "css"
   ],
   "license": "MIT",
   "ignore": [
