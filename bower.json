@@ -1,10 +1,21 @@
 {
-    name: "reset-css",
-    version: "2.0.20110126",
-    description: "A Scss copy of Eric Meyer's CSS reset.",
-    homepage: "http://meyerweb.com/eric/tools/css/reset/",
-    authors: [
-        "Eric Meyer"
-    ],
-    main: "reset.scss"
+  "name": "reset-scss",
+  "version": "1.0.0",
+  "homepage": "https://github.com/ianrose/reset-scss",
+  "authors": [
+    "Eric Meyer"
+  ],
+  "description": "A Scss version of Eric Meyer's CSS reset",
+  "main": "reset.scss",
+  "keywords": [
+    "reset"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
 }
