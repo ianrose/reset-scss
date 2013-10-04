@@ -1,0 +1,10 @@
+{
+    name: "reset-css",
+    version: "2.0.20110126",
+    description: "A Scss copy of Eric Meyer's CSS reset.",
+    homepage: "http://meyerweb.com/eric/tools/css/reset/",
+    authors: [
+        "Eric Meyer"
+    ],
+    main: "reset.scss"
+}
