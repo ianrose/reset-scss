@@ -6,7 +6,7 @@
     "Eric Meyer"
   ],
   "description": "A Scss version of Eric Meyer's CSS reset",
-  "main": "_reset.scss",
+  "main": "_reset-src.scss",
   "keywords": [
     "reset",
     "scss",
