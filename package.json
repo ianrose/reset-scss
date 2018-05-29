@@ -1,0 +1,25 @@
+{
+  "name": "reset-scss",
+  "version": "2.0.2",
+  "description": "A SCSS version of Eric Meyer's CSS reset",
+  "main": "_reset-src.scss",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://ianrose@github.com/ianrose/reset-scss.git"
+  },
+  "keywords": [
+    "sass",
+    "reset",
+    "eric",
+    "meyer"
+  ],
+  "author": "Ian Rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ianrose/reset-scss/issues"
+  },
+  "homepage": "https://github.com/ianrose/reset-scss#readme"
+}
