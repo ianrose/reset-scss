@@ -1,5 +1,5 @@
 {
-  "name": "reset-scss",
+  "name": "meyer-reset-scss",
   "version": "2.0.3",
   "description": "A SCSS version of Eric Meyer's CSS reset",
   "main": "_reset-src.scss",
